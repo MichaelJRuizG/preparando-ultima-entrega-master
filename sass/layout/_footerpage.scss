@@ -1,0 +1,39 @@
+.footerdiv{
+    display: grid;
+    grid-template-columns: 35vw 80vw;
+    justify-items: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.mapa{
+    justify-items: start;
+    height: auto;
+    margin-top: 1%;
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.653);
+    margin-left: 3%;
+}
+
+.listadatos{
+    display: inline;
+    color: rgb(229, 229, 229);
+    border: 10px solid rgb(178, 71, 71);
+    border-radius: 5px;
+    float: right;
+    font-size: 15px;
+    margin-top: 1%;
+    margin-right: 3%;
+    background-color: rgb(178, 71, 71);
+    width: 50%;
+    height: auto;
+}
+.listadatos ul{
+    line-height: 3vh;
+    padding-left: 10%;
+}
+
+.copy{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}

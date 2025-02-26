@@ -1,0 +1,22 @@
+{
+  "name": "coderhouse-front-end",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/MichaelJRuizG/2da-entrega#readme",
+  "bugs": {
+    "url": "https://github.com/MichaelJRuizG/2da-entrega/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelJRuizG/2da-entrega.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch-css": "sass --watch sass/main.scss css/main.css"
+    
+  }
+}
